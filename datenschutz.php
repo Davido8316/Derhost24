@@ -52,7 +52,7 @@ auf ein Mindestmaß.</p>
 
 <b>Verantwortlicher</b><br>
 Kontaktieren Sie uns auf Wunsch. Verantwortlicher für die Datenverarbeitung ist:
-David Ersoy, Heinrich-Julius-Straße 10 38820 Halberstadt Deutschland info (at) derhost24.de
+David Ersoy, Heinrich-Julius-Straße 10 38820 Halberstadt Deutschland info (at) davido8316.de
 <b><br><br>
 Datenverarbeitung bei Nutzung des Meldesystems nach TCO-Verordnung (Verordnung (EU) 2021/784) und Digital Services Act
 (Verordnung (EU) 2022/2065)</b><br>
@@ -139,6 +139,7 @@ Nähere Informationen zur Datenverarbeitung bei Verwendung des Zahlungsdienstes 
 unter https://link.co/de/privacy-center<br>
 <br>
 
+
 <h4><strong>Cookies</strong></h4><br><p> 
 Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die im Internetbrowser bzw. vom
 Internetbrowser auf dem Computersystem eines Nutzers gespeichert werden. Ruft ein Nutzer eine Website auf,
@@ -201,8 +202,43 @@ widersprechen.<br>
 Nähere Informationen zu Google reCAPTCHA sowie die dazugehörige Datenschutzerklärung finden Sie unter:<br>
 <a href="https://www.google.com/recaptcha/intro/android.html">https://www.google.com/recaptcha/intro/android.html</a> sowie <a href="https://www.google.com/privacy">https://www.google.com/privacy</a>.</p>
 <br>
-<br>
 
+<b>Verwendung des Live-Chat-Systems Tawk.to</b><p>
+Auf unserer Website verwenden wir das Live-Chat-System der Tawk.to Inc., 187 East Warm Springs Rd, SB298, Las Vegas, NV 89119, USA („Tawk.to“).<br>
+Das System dient der Übermittlung von Nachrichten zur Echtzeitkommunikation.<br>
+Beim Aufrufen unserer Website wird über ein Script eine Verbindung zu den Servern von Tawk.to hergestellt. Dabei werden zur technischen Bereitstellung des Dienstes insbesondere Ihre IP-Adresse, der verwendete Browser, das Betriebssystem, Datum und Uhrzeit des Aufrufs sowie gegebenenfalls der Chatverlauf übertragen und dort gespeichert.<br>
+
+Sofern Sie über das Chat-Fenster aktiv Kontakt mit uns aufnehmen, erheben wir zusätzlich die von Ihnen gemachten Angaben (z. B. Name, E-Mail-Adresse, Nachrichteninhalt), um Ihre Anfrage zu bearbeiten.<br>
+
+Die Datenverarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an einer effektiven Kundenkommunikation sowie zur Verbesserung unseres Serviceangebots.<br>
+Sofern der Chat der Vertragsanbahnung oder Vertragsdurchführung dient, erfolgt die Verarbeitung zusätzlich auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO.<br>
+
+Tawk.to verwendet unter Umständen Cookies, um die Chat-Funktionalität bereitzustellen und wiederkehrende Nutzer zu erkennen. Die Nutzung dieser Cookies erfolgt mit Ihrer Einwilligung gemäß § 25 Abs. 1 TTDSG i.V.m. Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit über die Cookie-Einstellungen widerrufen.<br>
+
+Tawk.to ist Empfänger Ihrer Daten in den USA. Für die USA liegt ein Angemessenheitsbeschluss der EU-Kommission (Data Privacy Framework) vor, dem Tawk.to beigetreten ist.<br>
+
+Weitere Informationen zur Datenverarbeitung durch Tawk.to finden Sie unter:<br>
+<a href="https://www.tawk.to/privacy-policy/">https://www.tawk.to/privacy-policy/</a></p>
+
+<br>  <br>
+<b>Verwendung von Cloudflare</b><p>
+
+Wir verwenden auf unserer Website Dienste der Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA („Cloudflare“).<br>
+Cloudflare betreibt ein Content Delivery Network (CDN) und stellt Sicherheitsfunktionen wie DDoS-Schutz und Web Application Firewall bereit.<br>
+Die Datenverarbeitung erfolgt zum Zweck der Absicherung und Optimierung der Ladezeiten unserer Website.<br>
+
+Hierbei werden alle Daten, die zwischen Ihrem Browser und unseren Servern ausgetauscht werden, über die Infrastruktur von Cloudflare geleitet.<br>
+Cloudflare kann dabei insbesondere Ihre IP-Adresse, Zugriffszeitpunkt, angeforderte Inhalte und technische Informationen zu Ihrem Browser erfassen.<br>
+
+Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der sicheren und effizienten Bereitstellung unserer Website.<br>
+
+Cloudflare speichert keine personenbezogenen Daten dauerhaft, sondern löscht oder anonymisiert diese in der Regel binnen 24 Stunden.<br>
+Cloudflare ist Empfänger Ihrer Daten in den USA. Für die USA liegt ein Angemessenheitsbeschluss der EU-Kommission (Data Privacy Framework) vor, dem Cloudflare beigetreten ist.<br>
+
+Weitere Informationen zur Datenverarbeitung durch Cloudflare finden Sie unter:<br>
+<a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a></p>
+
+<br>
 <h4><strong>Betroffenenrechte und Speicherdauer</strong></h4><br>
 <b>Dauer der Speicherung</b><br><p>
 Nach vollständiger Vertragsabwicklung werden die Daten zunächst für die Dauer der Gewährleistungsfrist,
@@ -233,7 +269,7 @@ Erfolgt die personenbezogene Datenverarbeitung zu Zwecken der Direktwerbung, kö
 Verarbeitung jederzeit durch Mitteilung an uns widersprechen. Nach erfolgtem Widerspruch beenden wir die
 Verarbeitung der betroffenen Daten zum Zwecke der Direktwerbung.</p>
 <br> <br>
-letzte Aktualisierung: 31.10.2024
+letzte Aktualisierung: 31.10.2025
 <p></p>
 			  </div>
 </div>

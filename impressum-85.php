@@ -9,7 +9,7 @@
    <h2>Impressum</h2>
    <br>
    <h3>Angaben gemäß § 5 DDG</h3>
-   <article>derHost24.de ist ein Angebot von:</article>
+   <article>davido8316.de ist ein Angebot von:</article>
    <article>David Ersoy<br>
       Heinrich-Julius-Straße 10<br>
       38820 Halberstadt
@@ -20,8 +20,8 @@
 
    <h3>Kontakt:</h3>
    <article>
-   Support: support (at) derhost24.de </a><br>
-      Abuse: abuse (at) derhost24.de</a> <br>
+   Support: support (at) davido8316.de </a><br>
+      Abuse: abuse (at) davido8316.de</a> <br>
       Telefon: 01234-789456 (kein Support unter dieser Nummer)<br> 
       Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
@@ -31,7 +31,7 @@
    </article>
    <hr/>
    <article>
-      Kontakt nach Verordnung (EU) 2021/784: tco (at) derhost24.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2021/784 bestimmt.
+      Kontakt nach Verordnung (EU) 2021/784: tco (at) davido8316.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2021/784 bestimmt.
       Andere Anfragen werden nicht beantwortet.
    </article>
    <article>
