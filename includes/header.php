@@ -57,7 +57,7 @@ if($notification === true){
 
 <div class="notification">
   <div>
-    Bis zum 31.05.25 mit dem Code "SUMMER-50" 50% Rabatt auf alle Minecraft Server sichern!
+    Bis zum 31.12.2025 mit dem Code "Winter-25" 25% Rabatt auf alle Minecraft Server sichern!
   </div>
 </div>
 
