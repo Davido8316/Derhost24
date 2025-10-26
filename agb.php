@@ -8,6 +8,8 @@ require_once("./includes/header.php");
 <div class="legal container" style="color:white">
 
 <div class="container">
+
+<h4><strong>Allgemeine Geschäftsbedingungen</strong></h4>
 <section class="information-box">
 <div class="description margin-bottom-0">
 <br>

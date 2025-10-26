@@ -5,14 +5,14 @@
       <div class="col-sm-6 hylink-holder">
          <div class="hylink-box">
             <div class="icon"><img src="images/info.svg" alt=""></div>
-            <a href="#" class="link">Lass uns schreiben!</a>
+            <a target="_blank" rel="noopener noreferrer" href="https://tawk.to/chat/6880d8e2a49bfb1916680168/1j0rkud9p" class="link">Lass uns schreiben!</a>
             <div class="text">Wenn du einfache Fragen an uns hast oder dich mit anderen Kunden austauschen möchtest.</div>
          </div>
       </div>
       <div class="col-sm-6 hylink-holder">
          <div class="hylink-box">
             <div class="icon"><img src="images/chat.svg" alt=""></div>
-            <a href="#" class="link">Erstelle ein Ticket!</a>
+            <a href="https://cp.davido8316.de/tickets/create" class="link">Erstelle ein Ticket!</a>
             <div class="text">Für kompliziertere Probleme oder spezielle Anfragen.</div>
          </div>
       </div>
@@ -28,28 +28,16 @@
                <ul>
                   <li><a href="webspace">Webhosting</a></li>
                   <li><a href="minecraft">Minecraft Server</a></li>
-                  <!--<li><a href="#">VPS Hosting</a></li>-->
-                  <li><a href="affiliate">Affiliate Programm</a></li>
                </ul>
             </div>
          </div>
-         
-         <!--<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
-            <div class="footer-menu">
-               <h4>Domains</h4>
-               <ul>
-                  <li><a href="#whmcs/cart.php?a=add&amp;domain=register">Registrieren</a></li>
-                  <li><a href="#whmcs/cart.php?a=add&amp;domain=transfer">Transferieren</a></li>
-                  <li><a href="#whmcs/clientarea.php?action=domains">Managen</a></li>
-               </ul>
-            </div> 
-         </div>-->
+      
          <div class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
             <div class="footer-menu">
                <h4>Support</h4>
                <ul>
-                  <li><a href="#">Status</a></li>
-                  <li><a href="#whmcs/submitticket.php">Ticket erstellen</a></li>
+                  <li><a target="_blank" rel="noopener noreferrer" href="https://stats.uptimerobot.com/pg2rwJSQFP">Status </a></li>
+                  <li><a href="https://cp.davido8316.de/tickets/create">Ticket erstellen</a></li>
                </ul>
             </div>
          </div>
@@ -57,9 +45,8 @@
             <div class="footer-menu">
                <h4>Login</h4>
                <ul>
-                  <li><a href="#whmcs/index.php/login">Kundenlogin</a></li>
-                  <li><a href="#">Gamepanel</a></li>
-                  <!--<li><a href="#">Plesk</a></li>-->
+                  <li><a href="https://cp.davido8316.de/login">Kundenlogin</a></li>
+                  <li><a href="https:/panel.davido8316.de">Gamepanel</a></li>
                </ul>
             </div>
          </div>
@@ -75,15 +62,15 @@
                      <li><a href="agb">AGB</a></li>
                      <li><a href="datenschutz">Datenschutz</a></li>
                      <li><a href="impressum-85">Impressum</a></li>
-                     <li><a href="agb#widerruf">Widerrufsrecht</a></li>
-                     <li><a href="#">Vertrag kündigen</a></li>
+                     <li><a href="agb">Widerrufsrecht</a></li>
+                     <li><a href="https://cp.davido8316.de/services">Vertrag kündigen</a></li>
                   </ul>
                </div>
             </div>
             <div class="col-md-6">
                <div class="copyright">© Copyright <?=date("Y")?> <?=$NAME?> Alle Rechte vorbehalten.</div>
                <div class="copyright">Alle Spielinhalte und Warenzeichen sind Eigentum der jeweiligen Rechteinhaber.</div>
-               <div class="copyright"><?=date("U")?> | V [0.9.0]</div>
+               <div class="copyright"><?=date("U")?> | V [1.0.0]</div>
             </div>
             <div class="information">Gemäß der Richtlinie 2006/112/EG in der geänderten Fassung können die Preise je nach Wohnsitzland des Kunden variieren.<br>
                In den Preisen für Angebote in Deutschland ist keine Umsatzsteuer nach § 19 UStG ausgewiesen.
@@ -100,5 +87,19 @@
 <script src="js/main.js" loading="lazy"></script>
 <script src="js/vpsslider.js" loading="lazy"></script>
 
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6880d8e2a49bfb1916680168/1j8g9uhcb';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 </html>

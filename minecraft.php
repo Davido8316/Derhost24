@@ -26,7 +26,9 @@
          
          require("./includes/indi-cta-daily-invoice.php");
          ?>
-         
+                  <div class="pricing-button">
+                     <a href="<?=$BILLING_URL?>/products/minecraft-server/free/checkout">Sichere dir hier einen kostenlosen Server</a>
+                  </div>
    </div>
 </div>
 </div>

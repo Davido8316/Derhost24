@@ -26,7 +26,7 @@
                      <div class="col-sm-7">
                         <div class="b-text text-uppercase">Kostenloser Minecraft Server<br> nur für Dich</div>
                         <div class="m-text">wirklich <span class="bold">kostenlos</span> | keine versteckten kosten.</div>
-                        <a href="#" class="hbtn hbtn-primary hbtn-lg">Mehr erfahren</a>
+                        <a href="minecraft" class="hbtn hbtn-primary hbtn-lg">Mehr erfahren</a>
                      </div>
                   </div>
                </div>
@@ -59,41 +59,6 @@
                      </div>
                   </div>
                </div>
-
-               
-
-
-               <!--
-               <div class="slide" >
-                  <div class="row" >
-                     <div class="col-xs-12">
-                        <div class="main-domain-search-holder"  style="background-image: url('http://localhost/hosting-webpage/images/slide-img3.svg'); height:200px;  background-repeat: no-repeat;">
-                           <h1 class="b-text text-uppercase">erschwingliche<br>Domains.</h1>
-                           <form method="POST" action="#whmcs/domainchecker.php">
-                              <div class="row">
-                                 <div class="col-md-12">
-                                    <div class="input-items">
-                                       <input type="text" class="form-control domain-input"
-                                          name="domain" placeholder="meinedomain.de"
-                                          autocapitalize="none" />
-                                       <span class="input-items-btn">
-                                       <input type="submit" class="btn search"
-                                          value="Prüfen" />
-                                       <input type="submit" name="transfer"
-                                          class="btn transfer" value="Transferieren" />
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </form>
-                           <h2 class="m-text"><span class="bold">.DE</span> für nur <span
-                              class="bold">0,58 €</span>.</h2>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               -->
             </div>
          </div>
       </div>
@@ -204,36 +169,6 @@
                </div>
             </div>
          </div>
-
-         <!--
-         <div class="col-sm-6 col-md-4">
-            <div class="pricing-box">
-               <div class="pricing-title">Domains</div>
-               <div class="pricing-icon">
-                  <div class="icon"><img src="images/server6.svg" loading="lazy" alt=""></div>
-               </div>
-               <div class="pricing-details">
-                  <ul>
-                     <li>Volle Kontrolle</li>
-                     <li>Innerhalb weniger Stunden <br> weltweit erreichbar</li>
-                     <li>Perfekt für jedes Projekt</li>
-                  </ul>
-               </div>
-               <div class="pricing-price">
-                  <div class="price-info">Schon ab nur</div>
-                  <div class="price">
-                     <span class="num">0,58 </span><span class="currency">€</span>
-                  </div>
-               </div>
-               <div class="pricing-button">
-                  <a href="#whmcs/cart.php?a=add&amp;domain=register">Mehr</a>
-               </div>
-            </div>
-         </div>
-
-         -->
-
-
          <div class="col-sm-6 col-md-4">
             <div class="pricing-box">
                <div class="pricing-title">Managed Shopware 6</div>
@@ -257,13 +192,11 @@
                   </div>
                </div>
                <div class="pricing-button disabled">
-                  <a href="shopware">Kontakt</a>
+                  <a href="https://cp.davido8316.de/tickets/create">Kontakt</a>
                </div>
             </div>
          </div>
       </div>
-      <p>Sichere dir <a href="#">hier</a> einen kostenlosen Minecraft Server<sup>1</sup></p>
-
    </div>
 </div>
 
