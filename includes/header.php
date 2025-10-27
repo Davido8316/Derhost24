@@ -82,12 +82,12 @@ if($notification === true){
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         </button>
-                        <div class="logo"><a href="/" class="" style="text-decoration:none; user-select: none"><h1>davido8316</h1></a></div>
+                        <div class="logo"><a href="./" class="" style="text-decoration:none; user-select: none"><h1>davido8316</h1></a></div>
                      </div>
                      <div style="height: 1px;" role="main" aria-expanded="false"
                         class="navbar-collapse collapse navbar-collapse-centered" id="bs">
                         <ul class="nav navbar-nav navbar-nav-centered">
-                           <li class="nav-item"><a class="nav-link" href="index">Home</a></li>
+                           <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
                            <li class="nav-item"><a class="nav-link" href="minecraft">Minecraft Gameserver</a></li>
                            <li class="nav-item"><a class="nav-link" href="webspace">Webspace</a></li>
                            <li class="nav-item">
@@ -99,7 +99,7 @@ if($notification === true){
                                     <div class="items-with-icon">
                                        <div class="row">
                                           <div class="col-sm-5">
-                                             <a href="https://cp.davido8316.de/login" class="link-with-icon">
+                                             <a href="https://c-area.davido8316.de/login" class="link-with-icon">
                                              <span class="icon"><img src="images/server1.svg" alt=""></span>
                                              <span class="text">Kundenbereich</span>
                                              </a>
