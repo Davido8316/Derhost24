@@ -21,7 +21,7 @@
 </div>
 <div class="sub-pricing container-fluid">
     <div class="container pull-top">
-        <?phprequire("./includes/minecraft-plans.php");?>
+        <?php require("./includes/minecraft-plans.php");?>
         <div class="pricing-button">
             <a href="<?=$BILLING_URL?>/products/minecraft-server/custom/checkout">Hier selber konfigurieren</a>
         </div>
