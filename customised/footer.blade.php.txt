@@ -1,22 +1,26 @@
 ##### themes/default/views/components/navigation/footer.blade.php
+  GNU nano 8.4                                            themes/default/views/components/navigation/footer.blade.php
+
+<footer class="w-full px-4 py-4">
 <ul class="flex flex-wrap items-center justify-center text-base/50">
    <li>
-      <a href="#" class="m-4 hover:underline md:me-6" style="padding: 16px;">AGB</a>
+      <a href="//davido8316.de/agb" class="m-4 hover:underline md:me-6" style="padding: 16px;">AGB</a>
    </li>
    <li>
-      <a href="#" class="m-4 hover:underline md:me-6" style="padding: 16px;">Datenschutz</a>
+      <a href="//davido8316.de/datenschutz" class="m-4 hover:underline md:me-6" style="padding: 16px;">Datenschutz</a>
    </li>
    <li>
-      <a href="#" class="m-4 hover:underline md:me-6" style="padding: 16px;">Impressum</a>
+      <a href="//davido8316.de/impressum-85" class="m-4 hover:underline md:me-6" style="padding: 16px;">Impressum</a>
    </li>
    <li>
-      <a href="#" class="m-4 hover:underline md:me-6" stlye="padding: 16px;">Widerrufsrecht</a>
+      <a href="//davido8316.de/agb" class="m-4 hover:underline md:me-6" stlye="padding: 16px;">Widerrufsrecht</a>
    </li>
    <li>
-      <a href="#" class="m-4 hover:underline md:me-6" style="padding: 16px;">Vertrag kündigen</a>
+      <a href="/services" class="m-4 hover:underline md:me-6" style="padding: 16px;">Vertrag kündigen</a>
    </li>
 </ul>
-<footer class="w-full px-4 py-4">
+
+
    <div class="container mx-auto grid gap-4">
       <div class="flex flex-col gap-2 items-center">
          <x-logo />
@@ -38,3 +42,17 @@
       </div>
    </div>
 </footer>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6880d8e2a49bfb1916680168/1j8g9uhcb';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
