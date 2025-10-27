@@ -5,7 +5,7 @@
                   <div class="pricing-title">M</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">0,99</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">1,00</span> <span class="currency">€</span><span class="duration">/mo</span>
                      </div>
                   </div>
                   <div class="pricing-button">
@@ -37,7 +37,7 @@
                   <div class="pricing-title">L</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">4,99</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">5,00</span> <span class="currency">€</span><span class="duration">/mo</span>
                      </div>
                   </div>
                   <div class="pricing-button">
@@ -68,7 +68,7 @@
                   <div class="pricing-title">XL</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">9,99</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">15,00</span> <span class="currency">€</span><span class="duration">/mo</span>
                      </div>
                   </div>
                   <div class="pricing-button">

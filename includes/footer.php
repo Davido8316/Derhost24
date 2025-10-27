@@ -5,14 +5,14 @@
       <div class="col-sm-6 hylink-holder">
          <div class="hylink-box">
             <div class="icon"><img src="images/info.svg" alt=""></div>
-            <a href="javascript:$crisp.push(['do', 'chat:open'])" class="link">Lass uns schreiben!</a>
+            <a href="javascript:window.Tawk_API.toggle();" class="link">Lass uns schreiben!</a>
             <div class="text">Wenn du einfache Fragen an uns hast oder dich mit anderen Kunden austauschen möchtest.</div>
          </div>
       </div>
       <div class="col-sm-6 hylink-holder">
          <div class="hylink-box">
             <div class="icon"><img src="images/chat.svg" alt=""></div>
-            <a href="https://cp.davido8316.de/tickets/create" class="link">Erstelle ein Ticket!</a>
+            <a href="https://c-area.davido8316.de/tickets/create" class="link">Erstelle ein Ticket!</a>
             <div class="text">Für kompliziertere Probleme oder spezielle Anfragen.</div>
          </div>
       </div>
@@ -37,7 +37,7 @@
                <h4>Support</h4>
                <ul>
                   <li><a target="_blank" rel="noopener noreferrer" href="https://stats.uptimerobot.com/pg2rwJSQFP">Status </a></li>
-                  <li><a href="https://cp.davido8316.de/tickets/create">Ticket erstellen</a></li>
+                  <li><a href="https://c-area.davido8316.de/tickets/create">Ticket erstellen</a></li>
                </ul>
             </div>
          </div>
@@ -45,7 +45,7 @@
             <div class="footer-menu">
                <h4>Login</h4>
                <ul>
-                  <li><a href="https://cp.davido8316.de/login">Kundenlogin</a></li>
+                  <li><a href="https://c-area.davido8316.de/login">Kundenlogin</a></li>
                   <li><a href="https:/panel.davido8316.de">Gamepanel</a></li>
                </ul>
             </div>
@@ -63,7 +63,7 @@
                      <li><a href="datenschutz">Datenschutz</a></li>
                      <li><a href="impressum-85">Impressum</a></li>
                      <li><a href="agb">Widerrufsrecht</a></li>
-                     <li><a href="https://cp.davido8316.de/services">Vertrag kündigen</a></li>
+                     <li><a href="https://c-area.davido8316.de/services">Vertrag kündigen</a></li>
                   </ul>
                </div>
             </div>

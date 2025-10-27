@@ -137,7 +137,7 @@
                <div class="pricing-price">
                   <div class="price-info">Schon ab nur</div>
                   <div class="price">
-                     <span class="num">0,99 </span><span class="currency">€</span>
+                     <span class="num">1,00 </span><span class="currency">€</span>
                   </div>
                </div>
                <div class="pricing-button">
@@ -161,7 +161,7 @@
                <div class="pricing-price">
                   <div class="price-info">Schon ab nur</div>
                   <div class="price">
-                     <span class="num">1,00 </span><span class="currency">€</span>
+                     <span class="num">2,50 </span><span class="currency">€</span>
                   </div>
                </div>
                <div class="pricing-button">
