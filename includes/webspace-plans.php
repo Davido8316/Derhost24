@@ -5,11 +5,11 @@
                   <div class="pricing-title">M</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">1,00</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">1,00</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
                      </div>
                   </div>
                   <div class="pricing-button">
-                     <a href="#whmcs/cart.php?a=add&amp;pid=1">Weiter</a>
+                     <a href="<?=$BILLING_URL?>/products/web-server/m/checkout">Weiter</a>
                   </div>
                   <div class="pricing-details">
                      <ul>
@@ -37,11 +37,11 @@
                   <div class="pricing-title">L</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">5,00</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">5,00</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
                      </div>
                   </div>
                   <div class="pricing-button">
-                     <a href="#whmcs/cart.php?a=add&amp;pid=3">Weiter</a>
+                     <a href="<?=$BILLING_URL?>/products/web-server/l/checkout">Weiter</a>
                   </div>
                   <div class="pricing-details">
                      <ul>
@@ -68,11 +68,11 @@
                   <div class="pricing-title">XL</div>
                   <div class="pricing-price">
                      <div class="price">
-                        <span class="num">15,00</span> <span class="currency">€</span><span class="duration">/mo</span>
+                        <span class="num">15,00</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
                      </div>
                   </div>
                   <div class="pricing-button">
-                     <a href="#whmcs/cart.php?a=add&amp;pid=4">Weiter</a>
+                     <a href="<?=$BILLING_URL?>/products/web-server/xl/checkout">Weiter</a>
                   </div>
                   <div class="pricing-details">
                      <ul>

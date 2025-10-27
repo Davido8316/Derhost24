@@ -29,7 +29,7 @@
                   <div class="pricing-title">Advanced</div>
                   <div class="pricing-price">
                      <div class="price">
-                      <span class="num">7,50</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
+                      <span class="num">10</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
                      </div>
                   </div>
                   <div class="pricing-button">
@@ -53,7 +53,7 @@
                   <div class="pricing-title">Expert</div>
                   <div class="pricing-price">
                      <div class="price">
-                       <span class="num">10</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
+                       <span class="num">15</span> <span class="currency">€</span><sub> / 30 Tage</sub></span>
                      </div>
                   </div>
                   <div class="pricing-button">
