@@ -1,7 +1,7 @@
 <?php
    $NAME = "davido8316.de";
 
-   $BILLING_URL = "//cp.davido8316.de";
+   $BILLING_URL = "//c-area.davido8316.de";
    $notification = true;
 
    //volthosting

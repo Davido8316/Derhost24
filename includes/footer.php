@@ -5,7 +5,7 @@
       <div class="col-sm-6 hylink-holder">
          <div class="hylink-box">
             <div class="icon"><img src="images/info.svg" alt=""></div>
-            <a target="_blank" rel="noopener noreferrer" href="https://tawk.to/chat/6880d8e2a49bfb1916680168/1j0rkud9p" class="link">Lass uns schreiben!</a>
+            <a href="javascript:$crisp.push(['do', 'chat:open'])" class="link">Lass uns schreiben!</a>
             <div class="text">Wenn du einfache Fragen an uns hast oder dich mit anderen Kunden austauschen möchtest.</div>
          </div>
       </div>
