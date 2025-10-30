@@ -1,7 +1,7 @@
 <?php
-   $NAME = "davido8316.de";
+   $NAME = "derHost24.de";
 
-   $BILLING_URL = "//c-area.davido8316.de";
+   $BILLING_URL = "//c-area.derHost24.de";
    $notification = true;
 
    //volthosting
@@ -14,12 +14,12 @@
       <title><?=$sitename?> | <?=$NAME?> </title>
       <meta name="title" content="<?=$sitename?> | <?=$NAME?>">
       <meta property="og:type" content="website">
-      <meta property="og:site_name" content="davido8316">
+      <meta property="og:site_name" content="derHost24">
       <meta property="og:image" content="images/VH-1.png">
-      <meta property="og:url" content="davido8316.de">
+      <meta property="og:url" content="derHost24.de">
       <meta property="og:title" content="<?=$sitename?> | <?=$NAME?>">
-      <meta property="og:description" content="Bei davido8316.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
-      <meta name="description" content="Bei davido8316.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
+      <meta property="og:description" content="Bei derHost24.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
+      <meta name="description" content="Bei derHost24.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
       <meta name="keywords" content="minecraft server mieten, minecraft server mieten kostenlos, minecraft server kaufen, minecraft anbieter, gameserver, paypal, minecraftserver, hosting, prepaid, günstig, billig, frei, schnell, einfach">
       <meta name="author" content="David Ersoy">
       <meta name="robots" content="index,follow">
@@ -32,17 +32,32 @@
       <link rel="stylesheet" type="text/css" loading="lazy" href="css/vpsslider.css">
       <link rel="stylesheet" type="text/css" loading="lazy" href="css/custom.css">
 
-      <link rel="icon" type="image/png" href="/mages/favicon/favicon-96x96.png" sizes="96x96" />
-      <link rel="icon" type="image/svg+xml" href="images/favicon/favicon.svg" />
-      <link rel="shortcut icon" href="images/favicon/favicon.ico" />
-      <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png" />
-      <link rel="manifest" href="images/favicon/site.webmanifest" />
+<link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="images/favicon/favicon-16x16.ico">
+      <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="images/favicon/favicon-32x32.ico">
+      <link rel="icon" type="image/png" sizes="96x96" loading="lazy" href="images/favicon/favicon-96x96.ico">
+      <link rel="icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/android-chrome-192x192.png">
+      <link rel="icon" type="image/png" sizes="512x512" loading="lazy" href="images/favicon/android-chrome-512x512.png">
+      <link rel="icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/mstile-144x144.png">
+      <link rel="icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/mstile-150x150.png">
+      <link rel="icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/mstile-310x150.png">
+      <link rel="icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/mstile-310x310.png">
+
+
+      <link rel="apple-pinned-tab" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/safari-pinned-tab.svg">  
+      <link rel="apple-touch-icon" type="image/png" sizes="192x192" loading="lazy" href="images/favicon/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="180x180" loading="lazy" href="images/apple-touch-icon-180x180.png">
+      <link rel="apple-touch-icon" sizes="152x152" loading="lazy" href="images/favicon/apple-touch-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="120x120" loading="lazy" href="images/favicon/apple-touch-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="76x76" loading="lazy" href="images/favicon/apple-touch-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="60x60" loading="lazy" href="images/favicon/apple-touch-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="57x57" loading="lazy" href="images/favicon/apple-touch-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="114x114" loading="lazy" href="images/favicon/apple-touch-icon-114x114.png">
       
 
       <link rel="prefetch" as="image" href="images/cloud-bg.svg" />
 
 
-      <script type="application/ld+json">{"@context":"http://schema.org","@type":"Product","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":"9509","ratingValue":"4.8"},"name":"Minecraft Gameserver","brand":"davido8316.de","description":"Bei davido8316 bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!","offers":{"@type":"AggregateOffer","availability":"inStock","offercount":"1","lowPrice":"0.07","priceCurrency":"EUR"}}</script>
+      <script type="application/ld+json">{"@context":"http://schema.org","@type":"Product","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":"9509","ratingValue":"4.8"},"name":"Minecraft Gameserver","brand":"derHost24.de","description":"Bei derHost24 bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!","offers":{"@type":"AggregateOffer","availability":"inStock","offercount":"1","lowPrice":"0.07","priceCurrency":"EUR"}}</script>
    </head>
 
 
@@ -82,7 +97,7 @@ if($notification === true){
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         </button>
-                        <div class="logo"><a href="./" class="" style="text-decoration:none; user-select: none"><h1>davido8316</h1></a></div>
+                        <div class="logo"><a href="./" class="" style="text-decoration:none; user-select: none"><h1>derHost24</h1></a></div>
                      </div>
                      <div style="height: 1px;" role="main" aria-expanded="false"
                         class="navbar-collapse collapse navbar-collapse-centered" id="bs">
@@ -99,11 +114,11 @@ if($notification === true){
                                     <div class="items-with-icon">
                                        <div class="row">
                                           <div class="col-sm-5">
-                                             <a href="https://c-area.davido8316.de/login" class="link-with-icon">
+                                             <a href="https://c-area.derHost24.de/login" class="link-with-icon">
                                              <span class="icon"><img src="images/server1.svg" alt=""></span>
                                              <span class="text">Kundenbereich</span>
                                              </a>
-                                             <a href="https://panel.davido8316.de" class="link-with-icon">
+                                             <a href="https://panel.derHost24.de" class="link-with-icon">
                                              <span class="icon"><img src="images/server3.svg" alt=""></span>
                                              <span class="text">Gamepanel</span>
                                              </a>

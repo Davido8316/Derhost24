@@ -192,52 +192,13 @@
                   </div>
                </div>
                <div class="pricing-button disabled">
-                  <a href="https://cp.davido8316.de/tickets/create">Kontakt</a>
+                  <a href="https://cp.derHost24.de/tickets/create">Kontakt</a>
                </div>
             </div>
          </div>
       </div>
    </div>
 </div>
-
-
-
-
-<!--
-<div class="domain-features container-fluid">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12">
-            <h2 class="row-title">Warum wir.</h2>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-sm-4 col-md-4">
-            <div class="dfeature-box">
-               <div class="icon"><i class="fas fa-clock"></i></div>
-               <div class="title">99.9% Online</div>
-               <div class="details">Wir wissen, dass es wichtig ist, dass deine Website oder dein Server online ist. Deshalb garantieren wir 99,9 % Betriebszeit für alle unsere Dienste - ansonsten bekommst du dein Geld zurück.<sup>3</sup>
-               </div>
-            </div>
-         </div>
-         <div class="col-sm-4 col-md-4">
-            <div class="dfeature-box">
-               <div class="icon"><i class="hstb hstb-two-circling-arrows"></i></div>
-               <div class="title">Kostenfreie Migration</div>
-               <div class="details">Wir können deine Website oder deinen Server ohne zusätzliche Kosten von deinem alten Hoster zu unseren Servern migrieren! Eröffne nach dem Kauf ein Ticket, um deine Daten umzuziehen!</div>
-            </div>
-         </div>
-         <div class="col-sm-4 col-md-4">
-            <div class="dfeature-box">
-               <div class="icon"><i class="fab fa-wordpress"></i></div>
-               <div class="title">Jede Menge kostenloser Software</div>
-               <div class="details">WordPress, Joomla, Drupal, phpBB, DokuWiki, Dolphin, YOURLS... Wir haben Hunderte von Skripten für deine Website oder deinen Server, die du mit nur einem Klick installieren kannst!</div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
--->
 <?php
    require_once("./includes/footer.php");
    ?>

@@ -14,7 +14,7 @@ require_once("./includes/header.php");
 <div class="description margin-bottom-0">
 <br>
 <strong>§</strong><strong>1 Geltungsbereich</strong><br>
-(1) Die vorliegenden Allgemeinen Geschäftsbedingungen (AGB) enthalten die zwischen uns, (David Ersoy Heinrich-Julius-Straße 10 38820 Halberstadt) (im folgenden „davido8316.de“, "davido8316", „wir“ oder „uns) und den Kunden, der von uns angebotenen Server-Dienstleistungen ausschließlich geltenden Bedingungen, soweit diese nicht durch schriftliche Vereinbarungen abgeändert werden.<br>
+(1) Die vorliegenden Allgemeinen Geschäftsbedingungen (AGB) enthalten die zwischen uns, (David Ersoy Heinrich-Julius-Straße 10 38820 Halberstadt) (im folgenden „derHost24.de“, "derHost24", „wir“ oder „uns) und den Kunden, der von uns angebotenen Server-Dienstleistungen ausschließlich geltenden Bedingungen, soweit diese nicht durch schriftliche Vereinbarungen abgeändert werden.<br>
 <br>
 Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können. Unternehmer im Sinne dieser AGB ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.
 <br>
@@ -28,13 +28,13 @@ Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgesc
 (3) Der Kunde versichert, dass alle gemachten Angaben bei der Registrierung wahrheitsgemäß und vollständig sind.<br>
 <br>
 <strong>§ 3 Leistungen</strong><br>
-(1) Als Provider erbringt die Firma davido8316.de Leistungen zur Zugänglichmachung von Inhalten über das Internet. Hierzu stellen wir dem Kunden Systemressourcen auf einem virtuellen oder dedizierten Server zur Verfügung.<br>
+(1) Als Provider erbringt die Firma derHost24.de Leistungen zur Zugänglichmachung von Inhalten über das Internet. Hierzu stellen wir dem Kunden Systemressourcen auf einem virtuellen oder dedizierten Server zur Verfügung.<br>
 <br>
 (2) Auf dem Server werden die Inhalte unter der vom Kunden zur Verfügung zu stellenden Internet-Adresse zum Abruf über das Internet bereitgehalten. Die Leistungen des Providers bei der Übermittlung von Daten beschränken sich allein auf die Datenkommunikation zwischen dem vom Provider betriebenen Übergabepunkt des eigenen Datenkommunikationsnetzes an das Internet und dem für den Kunden bereitgestellten Server. Eine Einflussnahme auf den Datenverkehr außerhalb des eigenen Kommunikationsnetzes ist dem Provider nicht möglich. Eine erfolgreiche Weiterleitung von Informationen von oder zu dem die Inhalte abfragenden Rechner ist daher insoweit nicht geschuldet.<br>
 <br>
-(3) davido8316.de gewährleistet eine Erreichbarkeit der Server von 99,5% im Jahresmittel - wenn nichts anderes Vereinbart wurde. Hiervon unberührt sind Zeiten, in denen der Server, aufgrund von technischen oder sonstigen Problemen, die nicht im Einflussbereich davido8316.de liegen (höhere Gewalt, Verschulden Dritter etc.) über das Internet nicht zu erreichen sind oder geplante Wartungsarbeiten von maximal 3 Stunden pro Woche durchgeführt werden.<br>
+(3) derHost24.de gewährleistet eine Erreichbarkeit der Server von 99,5% im Jahresmittel - wenn nichts anderes Vereinbart wurde. Hiervon unberührt sind Zeiten, in denen der Server, aufgrund von technischen oder sonstigen Problemen, die nicht im Einflussbereich derHost24.de liegen (höhere Gewalt, Verschulden Dritter etc.) über das Internet nicht zu erreichen sind oder geplante Wartungsarbeiten von maximal 3 Stunden pro Woche durchgeführt werden.<br>
 <br>
-(4) davido8316.de behält sich vor, einen Dienst auf ein anderes Produkt zu ändern, insofern der Ausgangsdienst nicht mehr angeboten werden kann.<br>
+(4) derHost24.de behält sich vor, einen Dienst auf ein anderes Produkt zu ändern, insofern der Ausgangsdienst nicht mehr angeboten werden kann.<br>
 <br>
 <strong>§ 4 Vertragsdauer und Kündigung</strong><br>
 (1) Soweit nicht anders vereinbart, werden Verträge auf unbestimmte Zeit geschlossen. Solche Verträge sind von beiden Parteien mit einer Frist von einem Monat zum Monatsende kündbar, frühestens jedoch zum Ablauf einer vertraglich vereinbarten Mindestlaufzeit.<br>
@@ -48,11 +48,11 @@ Verbraucher im Sinne dieser AGB ist jede natürliche Person, die ein Rechtsgesc
 <br>
 (2) Es gelten die zum Zeitpunkt der Bestellung angegebenen Preise. Die in den Preisinformationen genannten Preise enthalten die gesetzliche Umsatzsteuer des Lieferlandes. Für Lieferungen innerhalb von Deutschland wird keine Umsatzsteuer nach § 19 UStG ausgewiesen.<br>
 <br>
-(3) Gegen Forderungen von davido8316.de kann der Kunde nur mit rechtskräftig festgestellten oder entscheidungsreifen Gegenansprüchen aufrechnen.<br>
+(3) Gegen Forderungen von derHost24.de kann der Kunde nur mit rechtskräftig festgestellten oder entscheidungsreifen Gegenansprüchen aufrechnen.<br>
 <br>
 <div id="widerruf"></div>
 <strong>§ 6 Widerrufsrecht für Verbraucher</strong><br>
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (David Ersoy, E-Mail: info (at) davido8316.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.<br>
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (David Ersoy, E-Mail: <!--email_off-->info (at) derHost24.de<!--/email_off-->) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.<br>
 <br>
 &nbsp;
 <br>
@@ -61,7 +61,7 @@ Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von 
 &nbsp;
 <br>
 <strong>Erlöschung des Widerrufsrecht</strong><br>
-Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von Dienstleistungen, wenn davido8316.de die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung durch den Unternehmer verliert.<br>
+Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von Dienstleistungen, wenn derHost24.de die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung durch den Unternehmer verliert.<br>
 <br>
 </div>
 </section>

@@ -52,7 +52,7 @@ auf ein Mindestmaß.</p>
 
 <b>Verantwortlicher</b><br>
 Kontaktieren Sie uns auf Wunsch. Verantwortlicher für die Datenverarbeitung ist:
-David Ersoy, Heinrich-Julius-Straße 10 38820 Halberstadt Deutschland info (at) davido8316.de
+David Ersoy, Heinrich-Julius-Straße 10 38820 Halberstadt Deutschland <!--email_off-->info (at) derHost24.de<!--/email_off-->
 <b><br><br>
 Datenverarbeitung bei Nutzung des Meldesystems nach TCO-Verordnung (Verordnung (EU) 2021/784) und Digital Services Act
 (Verordnung (EU) 2022/2065)</b><br>

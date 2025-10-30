@@ -9,7 +9,7 @@
    <h2>Impressum</h2>
    <br>
    <h3>Angaben gemäß § 5 DDG</h3>
-   <article>davido8316.de ist ein Angebot von:</article>
+   <article>derHost24.de ist ein Angebot von:</article>
    <article>David Ersoy<br>
       Heinrich-Julius-Straße 10<br>
       38820 Halberstadt
@@ -20,8 +20,8 @@
 
    <h3>Kontakt:</h3>
    <article>
-   Support: support (at) davido8316.de </a><br>
-      Abuse: abuse (at) davido8316.de</a> <br>
+   Support: <!--email_off-->support (at) derHost24.de<!--/email_off--> </a><br>
+      Abuse: <!--email_off-->abuse (at) derHost24.de<!--/email_off--></a> <br>
       Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
    <h3>Online-Streitbeilegung</h3>
@@ -30,11 +30,11 @@
    </article>
    <hr/>
    <article>
-      Kontakt nach Verordnung (EU) 2021/784: tco (at) davido8316.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2021/784 bestimmt.
+      Kontakt nach Verordnung (EU) 2021/784: <!--email_off-->tco (at) derHost24.de<!--/email_off--> <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2021/784 bestimmt.
       Andere Anfragen werden nicht beantwortet.
    </article>
    <article>
-      Kontakt nach Verordnung (EU) 2022/2065: dsa (at) davido8316.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
+      Kontakt nach Verordnung (EU) 2022/2065: <!--email_off-->dsa (at) derHost24.de<!--/email_off--> <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
       Andere Anfragen werden nicht beantwortet. <br>
          Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
