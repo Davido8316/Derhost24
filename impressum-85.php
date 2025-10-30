@@ -34,7 +34,7 @@
       Andere Anfragen werden nicht beantwortet.
    </article>
    <article>
-      Kontakt nach Verordnung (EU) 2022/2065: dsa (at) derhost.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
+      Kontakt nach Verordnung (EU) 2022/2065: dsa (at) davido8316.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
       Andere Anfragen werden nicht beantwortet. <br>
          Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
