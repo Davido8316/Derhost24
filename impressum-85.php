@@ -22,7 +22,6 @@
    <article>
    Support: support (at) davido8316.de </a><br>
       Abuse: abuse (at) davido8316.de</a> <br>
-      Telefon: 01234-789456 (kein Support unter dieser Nummer)<br> 
       Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
    <h3>Online-Streitbeilegung</h3>
@@ -35,15 +34,11 @@
       Andere Anfragen werden nicht beantwortet.
    </article>
    <article>
-      Kontakt nach Verordnung (EU) 2022/2065: dsa @ derhost.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
-      Andere Anfragen werden nicht beantwortet.
+      Kontakt nach Verordnung (EU) 2022/2065: dsa (at) derhost.de <br> Diese E-Mail-Adresse ist für die Kommunikation gemäß Verordnung (EU) 2022/2065 bestimmt.
+      Andere Anfragen werden nicht beantwortet. <br>
+         Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen.
    </article>
-   
-   <hr/>
- 
-   <article>
-   Bitte vergessen Sie nicht das (at) durch das Sonderzeichen @ zu ersetzen. <br>
-   </article>
+
    <br>
    <article>
 
