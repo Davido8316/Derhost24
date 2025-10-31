@@ -159,9 +159,10 @@
                   </ul>
                </div>
                <div class="pricing-price">
-                  <div class="price-info">Schon ab nur</div>
+                  <div class="price-info">Ab unschlagbaren</div>
                   <div class="price">
-                     <span class="num">2,50 </span><span class="currency">€</span>
+                     <span class="num">0,00 </span><span class="currency">€</span><br>
+                     Keine Zahlungsinformationen benötigt.
                   </div>
                </div>
                <div class="pricing-button">
