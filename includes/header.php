@@ -18,7 +18,7 @@
       <meta property="og:image" content="images/VH-1.png">
       <meta property="og:url" content="derHost24.de">
       <meta property="og:title" content="<?=$sitename?> | <?=$NAME?>">
-      <meta property="og:description" content="Bei derHost24.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
+      <meta property="og:description" content="Sichere dir noch heute einen kostenlosen Minecraft-Server oder ein Performance-Monster schon ab nur 1 € im Monat bei derHost24.de. Vertragslaufzeit - täglich kündbar.">
       <meta name="description" content="Bei derHost24.de bekommst du Minecraft Server zu einem unschlagbaren Preis ohne auf Performance zu verzichten!">
       <meta name="keywords" content="minecraft server mieten, minecraft server mieten kostenlos, minecraft server kaufen, minecraft anbieter, gameserver, paypal, minecraftserver, hosting, prepaid, günstig, billig, frei, schnell, einfach">
       <meta name="author" content="David Ersoy">
